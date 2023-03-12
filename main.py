@@ -16,11 +16,11 @@ REPLY_TEMPLATE = " We have detected this post to pertain to **Lizzie Hill / The 
 def main():
     # Initialize a PRAW Reddit instance with API credentials
     reddit = praw.Reddit(
-        client_id="jdcn5TE8vmq6-p-KDnZAGw",
-        client_secret="q_aIhaBLyfRq10aM9MSHKrNGN69omg",
-        password="B0mbadbomberin.!",
-        user_agent="Twobert 1.0",
-        username="HuebertTMann",
+        client_id="",
+        client_secret="",
+        password=".!",
+        user_agent="",
+        username="",
         check_for_async=False
     )
 
